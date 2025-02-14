@@ -20,3 +20,4 @@ var server = http.createServer(function (request, response) {
 });
 
 // Listen on port 3000, IP defaults to
+server.listen(3000);
